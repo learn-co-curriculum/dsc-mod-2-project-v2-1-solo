@@ -8,7 +8,18 @@ Please complete the project with the adjustments described here. If you find you
 
 ## The Project Task
 
+For your project, ignore the following features:
 
+* date
+* view
+* sqft_above
+* sqft_basement
+* yr_renovated
+* zipcode
+* lat
+* long
+* sqft_living15
+* sqft_lot15
 
 ## The Project Review
 
