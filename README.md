@@ -25,7 +25,7 @@ For your project, ignore the following features:
 
 You have until the end of the week to present your project and submit your project repo. Please submit the link to your project repo via the Learn.co assignment tool. Project submissions are due at the end of project week, and will be reviewed by teachers on the Monday or Tuesday of the following week.
 
-Teachers will use [this project rubric](https://docs.google.com/spreadsheets/) to grade your submission and presentation. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
+Teachers will use [this project rubric](https://docs.google.com/spreadsheets/d/143wYLfFIJIw8oB6UBcQsVnMJfZGdJw5fuc6wngtUdLs/edit?usp=sharing) to grade your submission and presentation. You can earn 0, 1, or 2 points on each element. You will receive a final 1-5 score based on the percentage of available points you earn. A score of 3 or higher is considered passing.
 
 *  0% to 29% = 1
 * 30% to 49% = 2
